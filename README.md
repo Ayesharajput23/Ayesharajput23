@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayesharajput23
 - 👀 I’m interested in Programming!
-- 🌱 I’m currently learning Python & Data Sciences
+- 🌱 I’m currently learning Python for web development!
 - 💞️ I’m looking forward to the paid internships.
 - 📫 How to reach me? Get into touch with me through Email: itsfreelancingprofile2305@gmail.com
 
